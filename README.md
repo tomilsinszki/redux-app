@@ -1,3 +1,13 @@
+# How the project was created
+
+npx create-react-app redux-app --template typescript
+
+npm install @reduxjs/toolkit react-redux
+
+https://react-redux.js.org/using-react-redux/usage-with-typescript
+
+npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
